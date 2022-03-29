@@ -7,7 +7,7 @@ Submitted by: Jeffrey Liu
 Time spent: 4 hours and 38 minutes spent in total
 
 Link to project:   
-Live Website: https://abyssinian-agate-spade.glitch.me
+Live Website: https://abyssinian-agate-spade.glitch.me   
 Code: https://glitch.com/edit/#!/abyssinian-agate-spade
 
 ## Required Functionality
