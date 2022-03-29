@@ -69,7 +69,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://usc.zoom.us/rec/share/BhLeanMZi59gNzlyF13f4g-LjS_XHvmwdoc9bCp_ASEmeveEqGKSMzZe5raHxi0.0pbPz_jMh1NvmsMR?startTime=1648542878000)
 
 
 ## License
