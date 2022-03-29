@@ -60,6 +60,7 @@ StackOverflow, W3School
 2. *What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)* 
      
 The greatest challenge happened when I attempted to add a new feature to the program. My plan was to have a picture of a "squirrel" pop out of the button when the "computer-clues" lit up. (To make the game more animated!) However, the squirrel image I embedded was too large that it covered the color of the button.    
+    
 At first, I tried to zoom out the image of "Squirrel" to make it smaller. However, when I zoomed the image, the position of the "lit" button shifted. I found it incompatible to keep the original alignment of the lit button and to zoom my added image.   
     
 I thought the problem lies in the setting for the image, then I changed multiple settings and features of the button (e.g. margin/ padding), however, the problem was not solved. Then I took some time reflecting on this bug: is this a problem with the embedded image or with the buttons? I tested my programs by modifying the settings of the buttons and the images for many times, and I finally discovered that the ultimate culprit was the default layout of the buttons. As a result, I quickly learned different button layout formats from W3Schools and applied the correct layout. Eventually, I fixed my problem.
