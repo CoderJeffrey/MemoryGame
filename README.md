@@ -41,8 +41,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 
-
-
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 1. Users loss three times and lost the game ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure.gif)
@@ -51,7 +49,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 4. Users Just click the buttons but didn't start the game  ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game.gif)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+#####1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
