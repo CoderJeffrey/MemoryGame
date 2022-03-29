@@ -40,12 +40,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
+
+
+
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+1. ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure.gif)
+2. ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo.gif)
+3. ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_After_failing_twice.gif)
+4. ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
