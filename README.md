@@ -36,7 +36,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [✔] When the program plays its clue sequence, there would be a "squirrel" pops up when the button is lit. 
+- [✔] When the program plays its clue sequence, a "squirrel" pops up in the button when the button is lit. 
 
 ## Video Walkthrough (GIF)
 
