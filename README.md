@@ -44,13 +44,11 @@ The following **additional** features are implemented:
 
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-<img src="https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure.gif" width="50">  
 
-1. Users loss three times and lost the game <br>  
-<img src="https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure.gif" width="300">  
-3. Users Win the Game  ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo.gif)
-4. Users Win the Game but made two mistakes ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_After_failing_twice.gif)
-5. Users Just click the buttons but didn't start the game  ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game.gif)
+1. Users loss three times and lost the game ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure.gif)
+2. Users Win the Game  ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo.gif)
+3. Users Win the Game but made two mistakes ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_After_failing_twice.gif)
+4. Users Just click the buttons but didn't start the game  ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
