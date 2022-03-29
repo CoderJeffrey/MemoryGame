@@ -53,23 +53,31 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game.gif)  
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.   
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+      
 StackOverflow, W3School
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)   
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+     
 The greatest challenge happened when I attempted to add a new feature to the program. My plan was to have a picture of a "squirrel" pop out of the button when the "computer-clues" lit up. (To make the game more animated!) However, the squirrel image I embedded was too large that it covered the color of the button.    
 At first, I tried to zoom out the image of "Squirrel" to make it smaller. However, when I zoomed the image, the position of the "lit" button shifted. I found it incompatible to keep the original alignment of the lit button and to zoom my added image.   
+    
 I thought the problem lies in the setting for the image, then I changed multiple settings and features of the button (e.g. margin/ padding), however, the problem was not solved. Then I took some time reflecting on this bug: is this a problem with the embedded image or with the buttons? I tested my programs by modifying the settings of the buttons and the images for many times, and I finally discovered that the ultimate culprit was the default layout of the buttons. As a result, I quickly learned different button layout formats from W3Schools and applied the correct layout. Eventually, I fixed my problem.
 
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)    
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+       
 After finishing my program, a question roused in my mind: “Will web-designing  be as simple as painting on papers someday?” I have used HTML, CSS, and JS before to create a web-application that utilized  ML (Machine Learning) image recognition model to recognize the food users took picture at and used related search features to recommend food recipes for users. However, in that process I discovered that the Web Development languages are not flexible and they are always prone to little bugs, like the ones related to my layout of buttons. I believe that the future of Web Development should be like an artistic experience, meaning that the developer should only focused on the overall aesthetics and visual effect of the page.    
+    
 I was thus excited to learn more about Glitch, a user-friendly platform that not only hints developers on how to construct website components, but also displays a real-time web-page for users to check the output of their code in time. I expect that this creation will fundamentally change my experience in the web development process. In the future, I hope to see more ancillary web development tools that will make the development process easy, flexible and artistic.
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)   
+     
 If I got more time, I would make this game more difficult. At the start of the game, users would be able to specify the level of difficulty they prefer (e.g., Easy/Medium/Hard). I would assign different lengths of "patterns" and "Clue Hold Time" to the program based on their choices. For example, if the user selects "easy mode," the length of the "pattern" array will be reduced to three and the reduction of "Clue Hold Time" will be thirty each time in playClueSequencec(), which means that the program is going to be simple and slow. On the other hand, if he/she selects the hard mode, I would increase the pattern length to seven and reduce the  "Clue Hold Time" by  one hundred each time, making the game experience more challenging.    
+     
 Another thing I would change is to add a ticking clock to the program and to place a "Best-Performance-Board" on the top-right corner of the program. The board will serve as a hall of fame, recording the top 5 game clearance time for the Easy/ Medium/ Hard Modes. Users can compare their scores to their previous performances , making the game more exciting and engaging.   
+     
 Finally, I would add more audio clips from various genres, such as jazz, blues, and hip hop, as background music of the game. ( The number of audio clips for each genre corresponds to the total number of buttons.) Then, at the start of the program, the user will be able to select their favorite music genres, and they will play with even greater fun.   
 
 
