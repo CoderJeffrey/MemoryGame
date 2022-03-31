@@ -4,7 +4,9 @@
 
 Submitted by: Jeffrey Liu
 
-Time spent: 6 hours and 25 minutes spent in total
+Time spent:
+- 4 hours and 25 minutes (For first demo)
+- 7 hours and 38 minuties (In total)
 
 Link to project:   
 Live Website: https://abyssinian-agate-spade.glitch.me  
