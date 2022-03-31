@@ -58,7 +58,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 1. *If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.* 
       
-StackOverflow, W3School
+StackOverflow (https://stackoverflow.com/questions/4622808/html-changing-colors-of-specific-words-in-a-string-of-text)   
+W3School (https://www.w3schools.com/jsref/met_win_setinterval.asp)
 
 2. *What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)* 
      
