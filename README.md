@@ -7,8 +7,8 @@ Submitted by: Jeffrey Liu
 Time spent: 4 hours and 38 minutes spent in total
 
 Link to project:   
-Live Website: https://fascinated-shelled-horesradish.glitch.me   
-Code: https://glitch.com/edit/#!/fascinated-shelled-horesradish
+Live Website: https://abyssinian-agate-spade.glitch.me  
+Code: https://glitch.com/edit/#!/abyssinian-agate-spade
 
 ## Required Functionality
 
@@ -32,11 +32,12 @@ The following **optional** features are implemented:
 * [✔] Player only loses after 3 mistakes (instead of on the first mistake)
 * [✔] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [ ] User has a limited amount of time to enter their guess on each turn
+* [✔] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
 - [✔] When the program plays its clue sequence, a "squirrel" pops up in the button when the button is lit. 
+- [✔] Make the "Start" and "Stop" Button way more fancier. (Add a little sauce of Cyberpunk and Mystery!) 
 
 ## Video Walkthrough (GIF)
 
