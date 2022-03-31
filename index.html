@@ -21,17 +21,19 @@
     <p style="margin: 0px;">
       Welcome to the game!    &nbsp 
       Repeat the pattern back to win a game.<br>
-      （Hint: Buttons with the "Squirrel" represents the clue Sequence）
+      <span style="font-family: Marker Felt, fantasy">
+        （Hint: "Squirrel" is the key to your answer path!）</span>
     </p>
     
-    <button id="startBtn" onclick="startGame()" style="margin-bottom: 20px; margin-top: 10px;">
+    <button id="startBtn" onclick="startGame()" style="margin-bottom: 5px; margin-top: 10px;">
         Start  
     </button>
     
-    <button id="stopBtn" class="hidden" onclick="stopGame()" style="margin-bottom: 20px;margin-top: 10px;">
-        Stop
+    <button id="stopBtn" class="hidden" onclick="stopGame()" style="margin-bottom: 5px;margin-top: 10px;">
+      <span>Stop</span>
     </button>
       
+    <p id="title_countDown"></p>
     
     <div id="gameButtonArea">
       <button id="button1" onclick="guess(1)" onmousedown = "startTone(1)" onmouseup = "stopTone()">
@@ -54,5 +56,9 @@
         <img id="img_button_5" class="hidden in_picture" src="https://cdn.glitch.global/4727e68d-1c8c-413a-8450-8d12018c0211/squirrel.png?v=1648448937594">
       </button>
     </div>
+    
+    
+    
+    
   </body>
 </html>

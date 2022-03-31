@@ -15,8 +15,9 @@ body {
   margin: 1rem;
   font-family: sans-serif;
   line-height: 1.5;
-  background-color: slategrey;
+  background-color: #404040;
   color: white;
+  text-align: center;
 }
 
 /* images and videos max out at full width */
@@ -53,6 +54,37 @@ button{
 .in_picture{
   width: 40%;
   height: 40%;
+}
+
+
+#startBtn, #stopBtn{
+  background: transparent; 
+  border-color: transparent;
+  width: fit-content;
+  padding: 20px 35px;
+  color: #FFFACD;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family:'Trebuchet MS', sans-serif;
+  transition: 0.8s;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+#startBtn:hover, #stopBtn:hover {
+  background-color: #FFFACD;
+  color: #050801;
+  box-shadow: 0 0 4px #FFFACD,
+              0 0 20px #FFFACD,
+              0 0 40px #FFFACD,
+              0 0 180px #FFFACD;
+}
+
+/* set the format and features for buttons */
+
+#gameButtonArea{
+  display: flex;
+  justify-content: center;
 }
 
 #button1{
@@ -97,3 +129,10 @@ button{
 #button5:active, #button5.lit{
   background: #73738c;
 }
+
+#title_countDown{
+  margin: 0px;
+  margin-bottom: 5px;
+  font-family: Bradley Hand, cursive
+}
+
