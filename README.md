@@ -55,6 +55,9 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ### 5. Users stop the game without playing
 ![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/User_Quit_The_Game_Without_Playing_Update.gif)  
 
+### 6. Users loss because the time runs out
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/User_Quit_The_Game_Without_Playing_Update.gif)  
+
 ## Reflection Questions
 1. *If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.* 
       
