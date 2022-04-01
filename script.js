@@ -107,7 +107,13 @@ function clearButton(btn) {
   document.getElementById("img_button_" + btn).classList.add("hidden");
 }
 
-function playSingleClue(btn) {
+function playSingleClue(btn,i,progress) {
+  //when the last button of the clue sequence was played, we start timing for gamer's response
+  if(i==progress)
+  {
+    continue_counting();
+  }
+  
   if (gamePlaying) {
     lightButton(btn);
     playTone(btn, clueHoldTime);
@@ -124,12 +130,10 @@ function playClueSequence() {
   let delay = nextClueWaitTime; //set delay to initial wait time
   for (let i = 0; i <= progress; i++) {
     // for each clue that is revealed so far
-    setTimeout(playSingleClue, delay, pattern[i]); // set a timeout to play that clue
+    setTimeout(playSingleClue, delay, pattern[i],i,progress); // set a timeout to play that clue
     delay += clueHoldTime;
     delay += cluePauseTime;
   }
-  
-  continue_counting();
 }
 
 function lossGame() {
