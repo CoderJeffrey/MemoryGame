@@ -47,19 +47,19 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 ### 1. Users loss three times and lost the game  
-![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure_Update.gif)  
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Failure_Update_1.gif)  
 ### 2. Users Win the Game    
-![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_Update.gif)  
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_Update_1.gif)  
 ### 3. Users Win the Game but made two mistakes   
-![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_After_failing_twice_Update.gif)  
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Success_Demo_After_failing_twice_Update_1.gif)  
 ### 4. Users Just click the buttons but didn't start the game    
-![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game_Update.gif)  
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Without-Starting-The-Game_Update_1.gif)  
 
 ### 5. Users stop the game without playing
-![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/User_Quit_The_Game_Without_Playing_Update.gif)  
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/User_Quit_The_Game_Without_Playing_Update_1.gif)  
 
 ### 6. Users loss because the time runs out
-![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Time_Run_Out.gif)  
+![](https://github.com/CoderJeffrey/CodePath-Memory-Game/blob/main/Time_Run_Out_1.gif)  
 
 ## Reflection Questions
 1. *If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.* 
