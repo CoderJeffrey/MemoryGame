@@ -34,7 +34,7 @@ The following **optional** features are implemented:
 * [✔] Player only loses after 3 mistakes (instead of on the first mistake)
 * [✔] Game button appearance change goes beyond color (e.g. add an image)
 * [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [✔] User has a limited amount of time to enter their guess on each turn
+* [✔] User has a limited amount of time to enter their guess on each turn (The newest edition timer only time the gamer after the program plays the clueSequence)
 
 The following **additional** features are implemented:
 
