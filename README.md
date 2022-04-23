@@ -1,6 +1,6 @@
 # Pre-work - *Memory Game*
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Game** is a Light & Sound Memory game to apply for Futureforce Tech Launchpad (Salesforce) Program. 
 
 Submitted by: Jeffrey Liu
 
