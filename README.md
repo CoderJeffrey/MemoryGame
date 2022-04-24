@@ -95,7 +95,8 @@ Finally, I will find more musics clips from various genres - such as jazz, blues
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://www.youtube.com/watch?v=XTRxgD5uzxM)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=XTRxgD5uzxM)  
+(In case the link doesn't work, here is the link: https://www.youtube.com/watch?v=XTRxgD5uzxM)
 
 
 ## License
