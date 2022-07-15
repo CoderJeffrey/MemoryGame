@@ -5,8 +5,8 @@ Intro: This is a web app simulation of Milton Bradley Simon 1978 Electronic Game
 ⭐ This memory game had four different colored buttons. Each button played a unique note. Players had to be able to repeat an increasingly long string of tones that the buttons created. A brief video introduction is available here: https://www.youtube.com/watch?v=vLi1qnRmpe4
 
 Link to project:   
-🖥️ Live Website: https://abyssinian-agate-spade.glitch.me  
-⌨️ Code: https://glitch.com/edit/#!/abyssinian-agate-spade
+🖥️ Live Website: https://memogame.glitch.me/
+⌨️ Code: https://glitch.com/edit/#!/memogame
 
 ## Achieved Functionality
 
